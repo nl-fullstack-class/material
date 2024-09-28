@@ -2,7 +2,7 @@
 
 ## 사용할 기술
 ### Frontend
-`React.js`, `tailwind`
+`React.js`
 
 ### Backend
 `Spring Boot`, `Spring Data JPA`
